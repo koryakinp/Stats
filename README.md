@@ -10,5 +10,5 @@ PM> Install-Package Stats.Koryakinp
 ```
 new double[3] { 1.0, 1.2, 2.0 }.Mean();
 new double[3] { 1.0, 1.2, 2.0 }.Variance(VarianceType.Population);
-new double[3] { 1.0, 1.2, 2.0 }.StandardDeviation(VarianceType.Mean);
+new double[3] { 1.0, 1.2, 2.0 }.StandardDeviation(VarianceType.Sample);
 ```
