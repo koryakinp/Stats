@@ -1612,14 +1612,14 @@
           "lib/netstandard1.3/System.Xml.XPath.XmlDocument.dll": {}
         }
       },
-      "Stats/1.0.0": {
+      "Stats.Koryakinp/3.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v2.0",
         "compile": {
-          "bin/placeholder/Stats.dll": {}
+          "bin/placeholder/Stats.Koryakinp.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Stats.dll": {}
+          "bin/placeholder/Stats.Koryakinp.dll": {}
         }
       }
     }
@@ -5694,7 +5694,7 @@
         "system.xml.xpath.xmldocument.nuspec"
       ]
     },
-    "Stats/1.0.0": {
+    "Stats.Koryakinp/3.0.0": {
       "type": "project",
       "path": "../Stats/Stats.csproj",
       "msbuildProject": "../Stats/Stats.csproj"
@@ -5706,7 +5706,7 @@
       "MSTest.TestFramework >= 1.2.0",
       "Microsoft.NET.Test.Sdk >= 15.5.0",
       "Microsoft.NETCore.App >= 2.0.0",
-      "Stats >= 1.0.0"
+      "Stats.Koryakinp >= 3.0.0"
     ]
   },
   "packageFolders": {

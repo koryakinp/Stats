@@ -1,0 +1,9 @@
+C:\Users\pavelkoryakin\Documents\Visual Studio 2017\Projects\Stats\Stats\bin\Release\netcoreapp2.0\Stats.deps.json
+C:\Users\pavelkoryakin\Documents\Visual Studio 2017\Projects\Stats\Stats\bin\Release\netcoreapp2.0\Stats.dll
+C:\Users\pavelkoryakin\Documents\Visual Studio 2017\Projects\Stats\Stats\bin\Release\netcoreapp2.0\Stats.pdb
+C:\Users\pavelkoryakin\Documents\Visual Studio 2017\Projects\Stats\Stats\obj\Release\netcoreapp2.0\Stats.csprojResolveAssemblyReference.cache
+C:\Users\pavelkoryakin\Documents\Visual Studio 2017\Projects\Stats\Stats\obj\Release\netcoreapp2.0\Stats.csproj.CoreCompileInputs.cache
+C:\Users\pavelkoryakin\Documents\Visual Studio 2017\Projects\Stats\Stats\obj\Release\netcoreapp2.0\Stats.AssemblyInfoInputs.cache
+C:\Users\pavelkoryakin\Documents\Visual Studio 2017\Projects\Stats\Stats\obj\Release\netcoreapp2.0\Stats.AssemblyInfo.cs
+C:\Users\pavelkoryakin\Documents\Visual Studio 2017\Projects\Stats\Stats\obj\Release\netcoreapp2.0\Stats.dll
+C:\Users\pavelkoryakin\Documents\Visual Studio 2017\Projects\Stats\Stats\obj\Release\netcoreapp2.0\Stats.pdb

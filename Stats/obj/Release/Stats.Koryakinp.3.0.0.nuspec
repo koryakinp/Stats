@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Stats.Koryakinp</id>
+    <version>3.0.0</version>
+    <authors>Pavel Koryakin &lt;koryakinp@koryakinp.com&gt;</authors>
+    <owners>Pavel Koryakin &lt;koryakinp@koryakinp.com&gt;</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <licenseUrl>https://github.com/koryakinp/Stats/blob/master/LICENSE</licenseUrl>
+    <description>Rudimentary statistical extensions for .NET Core</description>
+    <releaseNotes>-variance of sample
+-variance of population
+-standard deviation of sample
+-standard deviation of population</releaseNotes>
+    <copyright>Copyright 2018 (c) Pavel Koryakin. All rights reserved.</copyright>
+    <tags>stats</tags>
+    <repository url="https://github.com/koryakinp/Stats" />
+    <dependencies>
+      <group targetFramework=".NETCoreApp2.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\pavelkoryakin\Documents\Visual Studio 2017\Projects\Stats\Stats\bin\Release\netcoreapp2.0\Stats.dll" target="lib\netcoreapp2.0\Stats.dll" />
+  </files>
+</package>

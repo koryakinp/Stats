@@ -2,6 +2,19 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp2.0</TargetFramework>
+    <Authors>Pavel Koryakin &lt;koryakinp@koryakinp.com&gt;</Authors>
+    <PackageId>Stats.Koryakinp</PackageId>
+    <Product>Statistics</Product>
+    <Description>Rudimentary statistical extensions for .NET Core</Description>
+    <PackageTags>stats</PackageTags>
+    <PackageReleaseNotes>-variance of sample
+-variance of population
+-standard deviation of sample
+-standard deviation of population</PackageReleaseNotes>
+    <RepositoryUrl>https://github.com/koryakinp/Stats</RepositoryUrl>
+    <PackageLicenseUrl>https://github.com/koryakinp/Stats/blob/master/LICENSE</PackageLicenseUrl>
+    <Copyright>Copyright 2018 (c) Pavel Koryakin. All rights reserved.</Copyright>
+    <Version>3.0.0</Version>
   </PropertyGroup>
 
   <ItemGroup>

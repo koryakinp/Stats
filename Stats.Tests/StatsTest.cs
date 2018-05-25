@@ -17,13 +17,15 @@ namespace Stats.Tests
         [TestMethod]
         public void VarianceTest()
         {
-            Assert.AreEqual(0.18666, data.Variance(), 0.0001);
+            Assert.AreEqual(0.18666, data.Variance(VarianceType.Population), 0.0001);
+            Assert.AreEqual(0.28, data.Variance(VarianceType.Sample), 0.0001);
         }
 
         [TestMethod]
         public void StandardDeviationTest()
         {
-            Assert.AreEqual(0.43204, data.StandardDeviation(), 0.0001);
+            Assert.AreEqual(0.43204, data.StandardDeviation(VarianceType.Population), 0.0001);
+            Assert.AreEqual(0.52915, data.StandardDeviation(VarianceType.Sample), 0.0001);
         }
 
         [TestMethod]
@@ -36,11 +38,23 @@ namespace Stats.Tests
             ex = Assert.ThrowsException<InvalidOperationException>(() => input.Mean());
             Assert.AreEqual(Consts.EMPTY_ARRAY, ex.Message);
 
-            ex = Assert.ThrowsException<InvalidOperationException>(() => input.Variance());
+            ex = Assert.ThrowsException<InvalidOperationException>(() => input.Variance(VarianceType.Sample));
             Assert.AreEqual(Consts.EMPTY_ARRAY, ex.Message);
 
-            ex = Assert.ThrowsException<InvalidOperationException>(() => input.StandardDeviation());
+            ex = Assert.ThrowsException<InvalidOperationException>(() => input.Variance(VarianceType.Population));
             Assert.AreEqual(Consts.EMPTY_ARRAY, ex.Message);
+
+            ex = Assert.ThrowsException<InvalidOperationException>(() => input.StandardDeviation(VarianceType.Sample));
+            Assert.AreEqual(Consts.EMPTY_ARRAY, ex.Message);
+
+            ex = Assert.ThrowsException<InvalidOperationException>(() => input.StandardDeviation(VarianceType.Population));
+            Assert.AreEqual(Consts.EMPTY_ARRAY, ex.Message);
+
+            ex = Assert.ThrowsException<InvalidOperationException>(() => new double[] { 0.1 }.Variance(VarianceType.Sample));
+            Assert.AreEqual(Consts.INVALID_SAMPLE_FOR_VARIANCE, ex.Message);
+
+            ex = Assert.ThrowsException<InvalidOperationException>(() => new double[] { 0.1 }.StandardDeviation(VarianceType.Sample));
+            Assert.AreEqual(Consts.INVALID_SAMPLE_FOR_VARIANCE, ex.Message);
         }
     }
 }

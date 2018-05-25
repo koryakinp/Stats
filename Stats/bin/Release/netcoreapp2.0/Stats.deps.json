@@ -6,7 +6,7 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v2.0": {
-      "Stats/2.0.0": {
+      "Stats/3.0.0": {
         "runtime": {
           "Stats.dll": {}
         }
@@ -14,7 +14,7 @@
     }
   },
   "libraries": {
-    "Stats/2.0.0": {
+    "Stats/3.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

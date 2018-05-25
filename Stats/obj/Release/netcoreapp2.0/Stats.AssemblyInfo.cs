@@ -12,7 +12,7 @@ using System;
 using System.Reflection;
 
 [assembly: System.Reflection.AssemblyCompanyAttribute("Pavel Koryakin <koryakinp@koryakinp.com>")]
-[assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
+[assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyCopyrightAttribute("Copyright 2018 (c) Pavel Koryakin. All rights reserved.")]
 [assembly: System.Reflection.AssemblyDescriptionAttribute("Rudimentary statistical extensions for .NET Core")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("3.0.0.0")]
