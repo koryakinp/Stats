@@ -1,0 +1,17 @@
+C:\Users\pavelkoryakin\Documents\Visual Studio 2017\Projects\Stats\Stats.Tests\obj\Debug\netcoreapp2.0\Stats.Tests.csprojResolveAssemblyReference.cache
+C:\Users\pavelkoryakin\Documents\Visual Studio 2017\Projects\Stats\Stats.Tests\obj\Debug\netcoreapp2.0\Stats.Tests.csproj.CoreCompileInputs.cache
+C:\Users\pavelkoryakin\Documents\Visual Studio 2017\Projects\Stats\Stats.Tests\obj\Debug\netcoreapp2.0\Stats.Tests.AssemblyInfoInputs.cache
+C:\Users\pavelkoryakin\Documents\Visual Studio 2017\Projects\Stats\Stats.Tests\obj\Debug\netcoreapp2.0\Stats.Tests.AssemblyInfo.cs
+C:\Users\pavelkoryakin\Documents\Visual Studio 2017\Projects\Stats\Stats.Tests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\pavelkoryakin\Documents\Visual Studio 2017\Projects\Stats\Stats.Tests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\pavelkoryakin\Documents\Visual Studio 2017\Projects\Stats\Stats.Tests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\pavelkoryakin\Documents\Visual Studio 2017\Projects\Stats\Stats.Tests\bin\Debug\netcoreapp2.0\Stats.Tests.deps.json
+C:\Users\pavelkoryakin\Documents\Visual Studio 2017\Projects\Stats\Stats.Tests\bin\Debug\netcoreapp2.0\Stats.Tests.runtimeconfig.json
+C:\Users\pavelkoryakin\Documents\Visual Studio 2017\Projects\Stats\Stats.Tests\bin\Debug\netcoreapp2.0\Stats.Tests.runtimeconfig.dev.json
+C:\Users\pavelkoryakin\Documents\Visual Studio 2017\Projects\Stats\Stats.Tests\bin\Debug\netcoreapp2.0\Stats.Tests.dll
+C:\Users\pavelkoryakin\Documents\Visual Studio 2017\Projects\Stats\Stats.Tests\bin\Debug\netcoreapp2.0\Stats.Tests.pdb
+C:\Users\pavelkoryakin\Documents\Visual Studio 2017\Projects\Stats\Stats.Tests\bin\Debug\netcoreapp2.0\Stats.dll
+C:\Users\pavelkoryakin\Documents\Visual Studio 2017\Projects\Stats\Stats.Tests\bin\Debug\netcoreapp2.0\Stats.pdb
+C:\Users\pavelkoryakin\Documents\Visual Studio 2017\Projects\Stats\Stats.Tests\obj\Debug\netcoreapp2.0\Stats.Tests.csproj.CopyComplete
+C:\Users\pavelkoryakin\Documents\Visual Studio 2017\Projects\Stats\Stats.Tests\obj\Debug\netcoreapp2.0\Stats.Tests.dll
+C:\Users\pavelkoryakin\Documents\Visual Studio 2017\Projects\Stats\Stats.Tests\obj\Debug\netcoreapp2.0\Stats.Tests.pdb
